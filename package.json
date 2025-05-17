@@ -1,0 +1,17 @@
+{
+  "name": "fetchapi",
+  "version": "1.0.0",
+  "main": "example.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@tailwindcss/cli": "^4.1.7",
+    "axios": "^1.9.0",
+    "tailwindcss": "^4.1.7"
+  }
+}

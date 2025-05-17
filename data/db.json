@@ -1,0 +1,66 @@
+{
+  "books": [
+    {
+      "title": "Life of Hazarat Muhamad (SW)",
+      "author": "Mizanur Ahajuri",
+      "id": "1"
+    },
+    {
+      "id": "2",
+      "title": "The Pragmatic Programmer",
+      "author": "Dave Thomas"
+    },
+    {
+      "id": "3",
+      "title": "JavaScript",
+      "author": "Robert C. Martin"
+    },
+    {
+      "id": "4",
+      "title": "Design Patterns",
+      "author": "Erich Gamma, Richard Helm, Ralph Johnson, John Vlissides"
+    },
+    {
+      "id": "5024",
+      "title": "History of Bangladesh",
+      "author": "Md.Fazle Hasan"
+    },
+    {
+      "id": "1499",
+      "title": "Story of Sucess",
+      "author": "Safa"
+    },
+    {
+      "title": "My Village Story",
+      "author": "Md Fazle Hasan",
+      "id": "933b"
+    },
+    {
+      "title": "Rainy Day",
+      "author": "Sila",
+      "id": "49f8"
+    },
+    {
+      "id": "c0f6",
+      "title": "Fazle Hasans Books",
+      "author": "Safa"
+    },
+    {
+      "id": "b5f8",
+      "title": "Nice Song",
+      "author": "Suraiya"
+    }
+  ],
+  "users": [
+    {
+      "name": "John Doe",
+      "email": "john@doe.com",
+      "id": "1"
+    },
+    {
+      "name": "Jane Smith",
+      "email": "jane@doe.com",
+      "id": "2"
+    }
+  ]
+}
